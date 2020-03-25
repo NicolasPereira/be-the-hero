@@ -32,8 +32,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O **Be The Hero** é um projeto que visa conectar pessoas interessadas em ajudar ongs e ongs com campanhas abertas.
 
-## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
 
