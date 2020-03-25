@@ -30,6 +30,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🚀 Projeto
 
-O **Be The Hero** é um projeto que visa conectar pessoas interessadas em ajudar ongs e ongs com campanhas abertas.
+O **Be The Hero** é um projeto que visa conectar pessoas interessadas em ajudar ONGs em campanhas abertas.
 
+## :page_with_curl: API
+Quer conferir a documentação da API da aplicação?
+Acesse este [link](https://documenter.getpostman.com/view/10842330/SzYT5gnh?version=latest)
 
