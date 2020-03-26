@@ -14,28 +14,28 @@
 </div> 
 <br>
 
-## :rocket: Tecnologias
+## :bulb: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Back end -Node.js](https://nodejs.org/en/)
 - [Front End - ReactJS](https://pt-br.reactjs.org/)
 
-##  Principais Dependências - Back-end
+## :computer: Principais Dependências - Back-end
 
 - [cors](https://expressjs.com/en/resources/middleware/cors.html)  
 - [express](https://nodejs.org/en/) 
 - [knex](http://knexjs.org/) 
 - [sqlite3](https://www.npmjs.com/package/sqlite3) 
 
-## 💻 Principais Dependências - Front-end
+## :computer: Principais Dependências - Front-end
 
 - [react-router-dom](https://reacttraining.com/react-router/web/guides/quick-start)  
 - [react-icons](https://react-icons.netlify.com/#/) 
 - [axios](https://github.com/axios/axios) 
 
 
-## 🚀💻 Projeto
+## :rocket: Projeto
 
 O **Be The Hero** é um projeto que visa conectar pessoas interessadas em ajudar ONGs em campanhas abertas.
 
