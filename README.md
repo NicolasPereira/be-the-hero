@@ -19,6 +19,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Back end -Node.js](https://nodejs.org/en/)
 - [Front End - ReactJS](https://pt-br.reactjs.org/)
+- [Mobile - ReactNative](https://reactnative.dev/)
+- [Mobile - Expo](https://expo.io/)
 
 ## :computer: Principais Dependências - Back-end
 
@@ -33,6 +35,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [react-icons](https://react-icons.netlify.com/#/) 
 - [axios](https://github.com/axios/axios) 
 
+## :iphone: Principais Dependências - Mobile
+
+- [react navigation](https://reactnavigation.org/)  
+- [react native intl](https://github.com/taggon/react-native-intl) 
+- [expo-mail-composer](https://docs.expo.io/versions/latest/sdk/mail-composer/) 
+- [axios](https://github.com/axios/axios) 
 
 ## :rocket: Projeto
 
