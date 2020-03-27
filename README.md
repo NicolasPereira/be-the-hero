@@ -7,8 +7,8 @@
 </h4>
 <div align="center">
 
-![](https://img.shields.io/github/issues/NicolasPereira/be-the-hero-backend) 
-![](https://img.shields.io/github/stars/NicolasPereira/be-the-hero-backend)
+![](https://img.shields.io/github/issues/NicolasPereira/be-the-hero) 
+![](https://img.shields.io/github/stars/NicolasPereira/be-the-hero)
 
 </div> 
 <br>
