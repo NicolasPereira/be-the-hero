@@ -27,7 +27,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [cors](https://expressjs.com/en/resources/middleware/cors.html)  
 - [express](https://nodejs.org/en/) 
 - [knex](http://knexjs.org/) 
-- [sqlite3](https://www.npmjs.com/package/sqlite3) 
+- [sqlite3](https://www.npmjs.com/package/sqlite3)
+- [celebrate](https://github.com/arb/celebrate) 
 
 ## :computer: Principais Dependências - Front-end
 
@@ -41,6 +42,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [react native intl](https://github.com/taggon/react-native-intl) 
 - [expo-mail-composer](https://docs.expo.io/versions/latest/sdk/mail-composer/) 
 - [axios](https://github.com/axios/axios) 
+
+## :mag: Testes automatizados
+- [jest](https://jestjs.io/)
+- [supertest](https://www.npmjs.com/package/supertest)
 
 ## :rocket: Projeto
 
